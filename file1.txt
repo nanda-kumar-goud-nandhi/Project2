@@ -1,1 +1,2 @@
 "Welcome to thr git"
+"Modified text"
